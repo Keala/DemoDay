@@ -6,7 +6,7 @@ body {
   font-size: 13px;
   color: #333333;
   background-color: #918e8e;
-  background-image: url(http://instagram.com/p/ZnPe1doXdW/);
+  background-image: url('http://instagram.com/p/ZnPe1doXdW/');
 }
 
 a {
@@ -23,7 +23,11 @@ h3,
 h4,
 h5,
 h6 {
-  color: #333333;
+  color: Pink;
+}
+
+h2 {
+   color: Pink;
 }
 
 .page-header {
